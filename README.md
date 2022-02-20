@@ -1,0 +1,1 @@
+# For - loop döngü tipinde örnekler içeren projedir.
